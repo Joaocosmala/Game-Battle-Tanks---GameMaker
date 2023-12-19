@@ -1,0 +1,1 @@
+instance_create_layer(x, y, "instances", Obj_explosion);
